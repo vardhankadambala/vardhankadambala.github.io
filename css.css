@@ -1,0 +1,17 @@
+.bannerimage{
+   padding-bottom: 50px; 
+   margin-bottom: 20px; 
+   text-align: center; 
+   color: #f8f8f8; 
+   background: url(img/scenery.jpg) no-repeat center; 
+   background-size: cover; 
+}
+.innerbannerimage{
+    padding-top: 12%; 
+    width:80%; 
+    margin:auto;
+}
+#image{
+     float: left;
+     padding: 0px 20px 20px 20px;
+ }
